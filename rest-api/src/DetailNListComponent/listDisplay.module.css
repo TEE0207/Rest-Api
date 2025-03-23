@@ -1,6 +1,36 @@
 .allContentContainer{
     width : 25%;
     height: auto;
+}
 
-    
+.imageContainer{
+    width: 100%;
+    height: auto;
+}
+
+.countryTitleContainer{
+    width: fit-content;
+    height: auto;
+}
+
+.countryDescriptionContainer{
+    width: 100%;
+    height: auto;
+    display: flex;
+    flex-direction: column;
+}
+
+.populationContainer{
+    width: fit-content;
+    height: auto;
+}
+
+.regionContainer{
+    width: fit-content;
+    height: auto;
+}
+
+.capitalContainer{
+    width: fit-content;
+    height: auto;
 }
