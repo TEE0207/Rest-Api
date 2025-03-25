@@ -1,13 +1,11 @@
-import ListDisplayComponent from "./DetailNListComponent/ListDisplayComponent"
+import DisplayLayoutComponent from "./DisplayLayoutComponent"
 
 
 function App() {
 
   return (
     <div>
-      <ListDisplayComponent 
-      population="lorem23"
-       />
+      <DisplayLayoutComponent />
 
     </div>
   )

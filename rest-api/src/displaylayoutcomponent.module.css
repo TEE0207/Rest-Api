@@ -1,0 +1,13 @@
+.allContentContainer{
+    width: 100vw;
+    height: 100vh;
+    overflow-x: hidden;
+}
+
+.dark{
+    background-color: blue;
+}
+
+.light{
+    background-color: white;
+}

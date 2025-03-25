@@ -1,0 +1,47 @@
+.allContentContainer{
+    width : 25%;
+    height: auto;
+}
+
+.imageContainer{
+    width: 100%;
+    height: auto;
+}
+
+.imageContainer{
+    width: 100%;
+    height: auto;
+}
+
+.countryTitleContainer{
+    width: fit-content;
+    height: auto;
+}
+
+
+.countryDescriptionContainer{
+    width: 100%;
+    height: auto;
+    display: flex;
+    flex-direction: column;
+}
+
+.text{
+    color: rgba(17, 21, 23, 0.7);
+}
+
+.populationContainer{
+    width: fit-content;
+    height: auto;
+    font-weight:550 ;
+}
+
+.regionContainer{
+    width: fit-content;
+    height: auto;
+}
+
+.capitalContainer{
+    width: fit-content;
+    height: auto;
+}
